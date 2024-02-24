@@ -1,0 +1,35 @@
+nav {
+  color: #14141F;
+  font-size: 13px;
+  line-height: 20px;
+  /* font-family: "Gilroy-Bold"; */
+  border: 1px solid #ECECED;
+  padding: 8px;
+  height: 939px;
+
+  p {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    cursor: pointer;
+    img {
+      margin-right: 4px;
+    }
+  }
+}
+
+.category-wrap {
+  display: flex;
+  align-items: center;
+}
+
+.category-add-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+
+  p {
+    margin: 5px 0;
+  }
+}
