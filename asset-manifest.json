@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/job-dashboard/static/css/main.1da9ab50.css",
+    "main.js": "/job-dashboard/static/js/main.7268d9d9.js",
+    "static/js/453.3dab7f08.chunk.js": "/job-dashboard/static/js/453.3dab7f08.chunk.js",
+    "static/media/user.png": "/job-dashboard/static/media/user.f3e383475f58eab50375.png",
+    "index.html": "/job-dashboard/index.html",
+    "main.1da9ab50.css.map": "/job-dashboard/static/css/main.1da9ab50.css.map",
+    "main.7268d9d9.js.map": "/job-dashboard/static/js/main.7268d9d9.js.map",
+    "453.3dab7f08.chunk.js.map": "/job-dashboard/static/js/453.3dab7f08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da9ab50.css",
+    "static/js/main.7268d9d9.js"
+  ]
+}
